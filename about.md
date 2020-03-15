@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+落霞与孤鹜齐飞，秋水共长天一色
 
 ### More Information
 
