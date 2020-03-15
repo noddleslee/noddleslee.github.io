@@ -8,8 +8,9 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+_数据挖掘
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[542410918@qq.com](mailto:email@domain.com)
