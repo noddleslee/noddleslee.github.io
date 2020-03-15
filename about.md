@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-_数据挖掘
+_数据挖
 
 
 ### Contact me
