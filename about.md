@@ -8,9 +8,9 @@ permalink: /about/
 
 ### More Information
 
-_数据挖
+数据挖掘探索者
 
 
 ### Contact me
 
-[542410918@qq.com](mailto:email@domain.com)
+[542410918@qq.com](mailto:542410918@qq.com)
